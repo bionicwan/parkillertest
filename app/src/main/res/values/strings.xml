@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Parkiller Test</string>
+    <string name="title_activity_main">Map</string>
+
+    <string name="distance_higher_than_200">Estás muy lejos del punto objetivo.</string>
+    <string name="distance_higher_than_100">Estás lejos del punto objetivo.</string>
+    <string name="distance_higher_than_50">Estás próximo al punto objetivo.</string>
+    <string name="distance_higher_than_10">Estás muy próximo al punto objetivo.</string>
+    <string name="distance_lower_than_10">Estás en el punto objetivo.</string>
+
+    <string name="dialog_title">Nuevo destino.</string>
+    <string name="dialog_text">¿Marcar %1$s como destino?.</string>
+</resources>
